@@ -1,0 +1,11 @@
+Cum folosesti Auto installer-ul
+
+Inainte sa-l extragi trebuie sa opresti anti-virusul pe care il folosesti (Pentru ca este un program facut in C# si Acceseaza fisiere din appdata)
+Il extragi unde doresti si pornesti "Auto installer Fivem.exe"
+
+Pentru a folosii Installerul ai nevoie de python, poti sa l instalezi din butonul "Instaleaza Python"
+Dupa ce s-a descarcat trebuie sa-l instalezi (si sa bifezi "Add Python To Path")
+
+Dupa ce ai instalat Python, trebuie sa apesi "Instaleaza Cerintele", Pentru a instala anumite module folosite in scripturile de instalare
+
+Dupa ce ai instalat toate acestea poti instala Modurile de Grafica care sunt in aplicatie
